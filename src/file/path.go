@@ -15,6 +15,7 @@ var (
 		"locales",
 		"pages",
 		"pages/customers",
+		"blocks",
 		"sections",
 		"snippets",
 		"templates",
